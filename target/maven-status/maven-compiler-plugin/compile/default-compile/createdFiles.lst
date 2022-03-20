@@ -1,3 +1,5 @@
-ru/shininghills/App.class
+ru/shininghills/FileSerialization.class
+ru/shininghills/filter/LoggingFilter.class
+ru/shininghills/JsonSerialization.class
 ru/shininghills/HelloController.class
 ru/shininghills/dto/StudentData.class
